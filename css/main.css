@@ -1,0 +1,69 @@
+*{
+	font-family: Arial;
+}
+.backyard-menu{
+	padding-top: 20px;
+}
+.backyard-menu img{
+	text-align: center;
+	margin-left: 20px;
+}
+.backyard-menu li{
+	text-transform: uppercase;
+	list-style: none;
+	display: inline;
+	padding-left: 20px;
+	text-align: center;
+	color: gray;
+}
+.beautiful{
+	padding: 40px 0 40px 0;
+	background-color: #797979;
+	color: white;
+}
+.beautiful h1{
+	padding: 20px;
+	font-size: 35px;
+}
+.beautiful p{
+	font-size: 12px;
+	padding: 20px;
+}
+.get{
+	background-color: #989898;
+	color: white;
+	width: 200px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 5px;
+	margin: 20px;
+}
+.get p{
+	font-size: 16px;
+}
+.suscribe{
+	padding: 5px;
+	height: 20px;
+	background-color: #53C9E7;
+	margin: 10px;
+	font-size: 12px;
+}
+.suscribe a{
+	text-decoration: none;
+	color: white;
+}
+input{
+	width: 180px;
+	height: 20px;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+footer p{
+	padding: 20px;
+	color: #989898;
+	font-size: 12px;
+}
+footer a{
+	text-decoration: none;
+	font-size: 12px;
+}
